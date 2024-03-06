@@ -12,3 +12,4 @@ Currently, two official plugins are available:
 #need to rearrange the images
 #need to add the marigins and paddings correctlyy for smaller devices
 #need to add the button for smaller devices
+#ADD THE README AS WELL
