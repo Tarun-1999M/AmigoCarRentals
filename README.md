@@ -2,7 +2,9 @@
 Amigo Car Rentals is an exquisite web application crafted to exhibit a premium collection of vehicles for rental. This project, built with React, showcases a sophisticated interface allowing users to explore various vehicles, their images, and detailed specifications. By integrating advanced React features and CSS for styling, the application offers a seamless and interactive user experience, tailored to cater to the high expectations of its clientele.
 
 **Stateful Component Interaction:** Implements React state management to update the vehicle display in real-time as users select different vehicles, ensuring a smooth and responsive user experience.
+
 **Stateful Question Tracking:** Utilizes React's state management to track and display the selected question and its answer, ensuring a responsive and interactive user experience.
+
 **Tailwind styles:** Utilized tailwind for the responsive design.
 
 
